@@ -1,0 +1,50 @@
+body{
+   background-image: linear-gradient(to right, #8360c3, #2ebf91);
+}
+
+
+
+.ALL
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #F0F8FF;
+  border-radius: 25px;
+  padding: 20px;
+  width: 250px;
+  height: 230px;  
+}
+
+.log{
+  text-align: center;
+  font-family: 'Times New Roman', Times, 'Times New Roman', Times, serif;
+  text-decoration: solid;
+  text-decoration: underline;
+}
+
+.email{
+  text-align: center;
+}
+
+.password{
+  text-align: center;
+}
+
+.forgot{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: smaller;
+  text-align: right;
+  
+}
+
+.button{
+  text-align: center;
+}
+
+.forgot:hover{
+  text-decoration: underline;
+  -webkit-text-fill-color: blue;
+
+}
